@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UiTAsk1</string>
+    <string name="order_details">Order Details</string>
+    <string name="todo">TODO</string>
+    <string name="_2_items_ordered">2 items ordered</string>
+    <string name="see_details"><![CDATA[See Details >]]></string>
+    <string name="oder_id">Oder ID</string>
+    <string name="oder_num">ORDERNUMBER4867392208600039</string>
+    <string name="order_date">Order Date</string>
+    <string name="date">Oct 23.2023 9:30 PM</string>
+    <string name="payment_mode">Payment Mode</string>
+    <string name="phonepe">PhonePe</string>
+    <string name="office">OFFICE</string>
+    <string name="address">Room no 338, Tagore Hostel, KIET Group Of Institutions, Muradnagar 201206.</string>
+    <string name="instruction">Instruction: Call on arrival.</string>
+    <string name="report_issue">Report Issue</string>
+    <string name="preparing_dinner">Preparing Dinner</string>
+    <string name="time">Expected arrival time:</string>
+    <string name="actual_time">09:51 PM</string>
+</resources>
